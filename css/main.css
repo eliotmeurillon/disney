@@ -1,39 +1,23 @@
-
 /*
 ----------------Typo
 */
-
-
-
-
 
 /*
 ----------------Variables
 */
 
-
-
-
-*{
+* {
   margin: 0;
-  padding : 0;
+  padding: 0;
 }
-
-
 
 /*
 ---------------Desktop
 */
-@media screen and (min-width: 21.875rem){
-
-  body{
-
+@media screen and (min-width: 21.875rem) {
+  body {
     background-color: yellow;
-
+    width: auto;
+    height: auto;
   }
-
-
-
-
-
-}/*@media screen and (min-width: 21.875rem){*/
+} /*@media screen and (min-width: 21.875rem){*/
