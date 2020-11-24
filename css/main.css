@@ -18,5 +18,6 @@
   body {
     background-color: yellow;
     width: auto;
+    height: auto;
   }
 } /*@media screen and (min-width: 21.875rem){*/
